@@ -32,4 +32,5 @@ Welcome to the **Trex Game Clone**! This is a simple, fun, and engaging 2D game 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/trex-game-clone.git
+   git clone https://github.com/BeastLionGaming1/trex-game-clone.git
+   
